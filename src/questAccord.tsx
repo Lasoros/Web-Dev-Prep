@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { AccordionItem , AccordionItemContent , AccordionItemTrigger , AccordionRoot } from '@chakra-ui/react'
 import { Stack , Text } from '@chakra-ui/react'
 
-export const Accordian = () => {
+export const AccordianQuestions = () => {
   const [value, setValue] = useState(["second-item"])
   return (
     <Stack gap="4">
@@ -20,10 +20,22 @@ export const Accordian = () => {
 }
 
 const items = [
-  { value: "first-item", title: "First Item", text: "Some value 1..." },
-  { value: "second-item", title: "Second Item", text: "Some value 2..." },
-  { value: "third-item", title: "Third Item", text: "Some value 3..." },
+  { value: "first-item", title: "First ?", text: "Anwser 1" },
+  { value: "second-item", title: "Second ?", text: "Anwser 2" },
+  { value: "third-item", title: "Third ?", text: "Anwser 3" },
 ]
 
+// const questions = [
 
-export default Accordian;
+//     [
+//         { number: "first-item", question: "First Item", answer: "Some number 1..." },
+//         { number: "second-item", question: "Second Item", answer: "Some number 2..." },
+//         { number: "third-item", question: "Third Item", answer: "Some number 3..." },
+//     ]   
+// ]
+
+export default AccordianQuestions;
+
+
+
+

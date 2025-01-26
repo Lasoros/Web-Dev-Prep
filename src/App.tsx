@@ -2,18 +2,15 @@ import Accordian from "./Accordian"
 import { CardWithForm } from "./Card";
 import Demo from "./box";
 import "./App.css"
+import questions from "./questions.json";
+import React from "react";
+import AccordianQuestions from "./questAccord";
 
 function App () {
   return (
-    // <><><div>
-    //   <CardWithForm>
-
-    //   </CardWithForm>
-    // </div><div>
-    //     <Accordian></Accordian>
-    //   </div></><Demo /></>
-
-    <Accordian></Accordian>
+    
+    <><Accordian></Accordian><AccordianQuestions></AccordianQuestions></>
+ 
   )
 
 
