@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { AccordionItem , AccordionItemContent , AccordionItemTrigger , AccordionRoot } from '@chakra-ui/react'
 import { Stack , Text } from '@chakra-ui/react'
 
-export const Accordian = () => {
+export const SnrLevel = () => {
   const [value, setValue] = useState(["second-item"])
   return (
     <Stack gap="4">
@@ -26,4 +26,4 @@ const items = [
 ]
 
 
-export default Accordian;
+export default SnrLevel;
