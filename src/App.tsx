@@ -1,6 +1,4 @@
-import Accordian from "./Accordian"
 import "./App.css"
-import AccordianQuestions from "./questAccord";
 import { Breadcrumb, Container, Stack } from "@chakra-ui/react";
 
 import IceBreakers from "./iceBreakers";

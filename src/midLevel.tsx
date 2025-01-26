@@ -20,9 +20,9 @@ export const MidLevel = () => {
 }
 
 const items = [
-  { value: "first-item", title: "First Item", text: "Some value 1..." },
-  { value: "second-item", title: "Second Item", text: "Some value 2..." },
-  { value: "third-item", title: "Third Item", text: "Some value 3..." },
+    { value: "Don't", title: "Fix", text: "filler filler filler..." },
+    { value: "Need", title: "It", text: "filler filler filler..." },
+    { value: "This", title: "Later", text: "filler filler filler..." },
 ]
 
 
