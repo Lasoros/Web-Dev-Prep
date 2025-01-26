@@ -1,8 +1,9 @@
+import Message from "./message";
 import TestAccordion from "./testAccordian";
 
 
 function App () {
-  return <div><TestAccordion/></div>
+  return <div><Message/></div>
 }
 
 export default App;
