@@ -3,7 +3,7 @@ import { AccordionItem , AccordionItemContent , AccordionItemTrigger , Accordion
 import { Stack , Text } from '@chakra-ui/react'
 
 export const Junior = () => {
-  const [value, setValue] = useState(["second-item"])
+  const [value, setValue] = useState(["Junior Web Dev Questions"])
   return (
     <Stack gap="4">
       <Text fontWeight="medium" fontSize={'xl'}>Expanded: {value.join(", ")}</Text>

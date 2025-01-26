@@ -3,7 +3,7 @@ import { AccordionItem , AccordionItemContent , AccordionItemTrigger , Accordion
 import { Stack , Text } from '@chakra-ui/react'
 
 export const ForSure = () => {
-  const [value, setValue] = useState(["second-item"])
+  const [value, setValue] = useState(["Guaranteed To Come Up"])
   return (
     <Stack gap="4">
       <Text fontWeight="medium" fontSize={'xl'}>Expanded: {value.join(", ")}</Text>
