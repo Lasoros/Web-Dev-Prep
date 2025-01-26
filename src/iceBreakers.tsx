@@ -20,14 +20,14 @@ export const IceBreakers = () => {
 }
 
 const items = [
-    { value: "Question 1", title: "Briefly Describe Your Experience", text: "Some value 3..." },
-    { value: "Question 2", title: "Could you tell me about yourself?", text: "Certainly. My Name is Thomas Wimer . . " },
-    { value: "Question 3", title: "How did you become interested in web development?", text: "Some value 2..." },
-    { value: "Question 4", title: "Tell us what you learned recently.", text: "Some value 3..." },
-    { value: "Question 5", title: "What programming languages are you proficient in?", text: "Some value 3..." },
-    { value: "Question 6", title: "Why Are You Interested in This Role?", text: "Some value 3..." },
-    { value: "Question 7", title: "What Are the Qualities Needed for The Success of This Role?", text: "Some value 3..." },
-    { value: "Question 8", title: "What Are the Roles of an Entry Level Developer?", text: "Some value 3..." },
+    { value: "Question 1", title: "Could you tell me about yourself?", text: "Certainly. my name is Thomas Wimer. I started my coding journey with Reynolds & Reynolds in mind as the final goal. I did an incredible amount of reaserch into potential employers and ReyRey not only came up consistently but was also at the top most of the time! . . . " },
+    { value: "Question 2", title: "Briefly Describe Your Experience", text: "I am familiar with the following languages and technologies: HTML, CSS, PYTHON, REACT, Node.js, Javascript, Typescript, and SQL. The latter 3 I would stress the word 'familiar'" },
+    { value: "Question 3", title: "How did you become interested in web development?", text: "Story about coding friends photography page to lower overhead cost - looked into it sparked interest to code. Not stopped since" },
+    { value: "Question 4", title: "Tell us what you learned recently.", text: "Just yesteday, in an attempt to prepare for this interview and also fill a glaring gap in the internet space. I dove back into using REACT/JVS to create this page. Learned Chakra and React Icon pulls. Or describe Python web scrapper" },
+    { value: "Question 5", title: "What programming languages are you proficient in?", text: "HTML, CSS, PYTHON, JavaScript*, TypeScript*, SQL* (* === Whilst I code with them I need to look at Documentation or Online for assistance more frequently)" },
+    { value: "Question 6", title: "Why Are You Interested in This Role?", text: "As stated prior, I cannot think of a better place for a Jr Dev to start their career. ReyRey has an incredible backlog of programmers from mid to legacy level. The campus has an incredible amount of amenities/benefits that are offered to all employees. The company work culture seems, from reviews and outside persepctive, to be second to none as it fosters the growth of all levels of coders. From someone like myself who just starting out and knows a handful of languages to your more senior devs who know lagnuages such as COBOL/others." },
+    { value: "Question 7", title: "What Are the Qualities Needed for The Success of This Role?", text: "I believe to succeed in this role, one would need to be ananlytically minded and a creative problem solver. However, one would also need to be very open to constructive criticisims/review of their work. That also goes hand in hand with being a personable, enjoyable, team player as coding is a team effort." },
+    { value: "Question 8", title: "What Are the Roles of an Entry Level Developer?", text: "An entry level Dev would, I imagine, be required to test, debug, build," },
     { value: "Question 9", title: "Why Do You Want to Work for Our Organization?", text: "Some value 3..." },
     { value: "Question 10", title: "What do you do if you can’t work out a coding issue by yourself?", text: "Some value 3..." },
     { value: "Question 11", title: "Have you worked in a customer-facing role in the past? How did you find it?", text: "Some value 3..." },

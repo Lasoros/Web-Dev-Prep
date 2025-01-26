@@ -6,7 +6,7 @@ import Junior from "./jrTech";
 import MidLevel from "./midLevel";
 import SnrLevel from "./snrTech";
 import ForSure from "./willComeUpQues";
-
+import EndQuestions from "./questionsEndInt";
 import Demo from "./breadSiteNav";
 
 
@@ -30,6 +30,11 @@ function App () {
           <Container id="Jr">
             <h2>Junior Technical Questions</h2>
             <Junior></Junior>
+          </Container>
+
+          <Container id="Questions">
+            <h2>Questions For End Of Interview</h2>
+            <EndQuestions></EndQuestions>
           </Container>
 
           <Container id="Mid">
