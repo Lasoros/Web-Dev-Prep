@@ -42,7 +42,12 @@ import { TbAntennaBars2, TbAntennaBars4, TbAntennaBars5 } from "react-icons/tb";
                 <BreadcrumbLink href="#Jr">
                 <TbAntennaBars2 /> Jr Level Tech ?'s
                 </BreadcrumbLink>
-             
+                </BreadcrumbItem>
+
+                <BreadcrumbItem>
+                <BreadcrumbLink href="#Questions">
+                <TbAntennaBars2 /> End Of Int. ?'s
+                </BreadcrumbLink>
                 </BreadcrumbItem>
 
                 <BreadcrumbItem>
