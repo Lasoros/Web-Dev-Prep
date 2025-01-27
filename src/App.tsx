@@ -1,5 +1,5 @@
 import "./App.css"
-import { Breadcrumb, Container, Stack } from "@chakra-ui/react";
+import { Container, Stack } from "@chakra-ui/react";
 
 import IceBreakers from "./iceBreakers";
 import Junior from "./jrTech";

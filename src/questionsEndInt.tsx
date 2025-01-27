@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { AccordionItem , AccordionItemContent , AccordionItemTrigger , AccordionRoot } from '@chakra-ui/react'
+import { AccordionItem  , AccordionItemTrigger , AccordionRoot } from '@chakra-ui/react'
 import { Stack , Text } from '@chakra-ui/react'
 
 export const EndQuestions = () => {
