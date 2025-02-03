@@ -20,7 +20,7 @@ export const IceBreakers = () => {
 }
 
 const items = [
-    { value: "Question 1", title: "Could you tell me about yourself?", text: "Certainly. my name is Thomas Wimer. I started my coding journey with Reynolds & Reynolds in mind as the final goal. I did an incredible amount of reaserch into potential employers and ReyRey not only came up consistently but was also at the top most of the time! . . . " },
+    { value: "Question 1", title: "Could you tell me about yourself?", text: "Certainly. my name is Thomas Wimer. . . . " },
     { value: "Question 2", title: "Briefly Describe Your Experience", text: "I am familiar with the following languages and technologies: HTML, CSS, PYTHON, REACT, Node.js, Javascript, Typescript, and SQL. The latter 3 I would stress the word 'familiar'" },
     { value: "Question 3", title: "How did you become interested in web development?", text: "Story about coding friends photography page to lower overhead cost - looked into it sparked interest to code. Not stopped since" },
     { value: "Question 4", title: "Tell us what you learned recently.", text: "Just yesteday, in an attempt to prepare for this interview and also fill a glaring gap in the internet space. I dove back into using REACT/JVS to create this page. Learned Chakra and React Icon pulls. Or describe Python web scrapper" },

@@ -1,4 +1,4 @@
-import { BreadcrumbRoot, BreadcrumbLink, BreadcrumbCurrentLink , BreadcrumbItem , Breadcrumb} from "@chakra-ui/react"
+import { BreadcrumbRoot, BreadcrumbLink , BreadcrumbItem } from "@chakra-ui/react"
 import { IconContext } from "react-icons";
 import { FaHome } from "react-icons/fa";
 import { FaCheck } from "react-icons/fa6";
