@@ -43,7 +43,7 @@ const items = [
     { value: "Question 22", title: "What are some of the key differences between SQL and NoSQL databases?", text: "The largest is SQL is relational and NoSQL is non-relational. Scalablity - SQL:Vertical (upgrade hardware) NoSQL:Horizontally (add servers). Use Case - SQL:Transactional (Banks)  NoSQL: Big Data (data hoarding)"},
     { value: "Question 23", title: "How would you optimize a website for performance?", text: "There's a few things that can be done: removing uneeded widgets, reduce HTTP requests, reduce image size/quality, enable browser caching, consolidate CSS sheets, etc" },
     { value: "Question 24", title: 'What is the purpose of the "this" keyword in JavaScript?', text: "This is used to access properties and methods of an object" },
-    { value: "Question 24", title: 'What is the difference between Grid and Flexbox?', text: "Both are used in CSS while the Flexbox is used for one dimesional pages and Grid is used for two dimensional pages" },
+    { value: "Question 25", title: 'What is the difference between Grid and Flexbox?', text: "Both are used in CSS while the Flexbox is used for one dimesional pages and Grid is used for two dimensional pages" },
 ]
 
 
